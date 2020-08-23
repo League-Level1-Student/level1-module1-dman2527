@@ -7,4 +7,7 @@ public class Tiger {
 	       this.roar = roar;
 	       this.numberOfTeeth = numberOfTeeth;
 	}
+	public void roar() {
+		System.out.println("ROAR!");	
+	}
 }

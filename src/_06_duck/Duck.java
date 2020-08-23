@@ -7,6 +7,8 @@ public class Duck
 	       this.favoriteFood = favoriteFood;
 	       this.numberOfFriends = numberOfFriends;
 	}
-
+	public void quack() {
+		System.out.println("QUACK!");
+	}
 
 }
